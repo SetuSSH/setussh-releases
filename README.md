@@ -70,4 +70,4 @@ your platform and the build version.
 
 ---
 
-© 2026 Jayesh Barman. Distributed under the [EULA](https://setussh.com/eula.html).
+© 2026 SetuSSH. Distributed under the [EULA](https://setussh.com/eula.html).
